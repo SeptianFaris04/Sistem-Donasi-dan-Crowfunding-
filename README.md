@@ -1,7 +1,7 @@
 # Sistem-Donasi-dan-Crowfunding
 
 # Diagram Use Case
-![image](https://github.com/user-attachments/assets/2cc490af-1e49-480d-9e58-4d3ec1fba05b)
+![Usecase_Sistem Donasi drawio (2) 1](https://github.com/user-attachments/assets/0215bd48-ed4e-474b-9a78-a865c6186b56)
 
 
 # Diagram ERD
